@@ -8,3 +8,4 @@ print("\(greeting)")
 print("\(a)")
 
 print("git add とgit commit")
+print("複数ファイル変更時の操作のため作成")
