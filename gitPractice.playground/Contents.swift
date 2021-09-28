@@ -7,3 +7,4 @@ var a = 1
 print("\(greeting)")
 print("\(a)")
 
+print("git add とgit commit")
